@@ -1,0 +1,5 @@
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\bin\Debug\FileDelete.exe
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\bin\Debug\FileDelete.pdb
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\obj\Debug\FileDelete.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\obj\Debug\FileDelete.exe
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\obj\Debug\FileDelete.pdb

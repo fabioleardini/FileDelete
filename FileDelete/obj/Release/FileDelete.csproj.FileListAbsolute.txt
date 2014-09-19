@@ -1,0 +1,8 @@
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\bin\Release\FileDelete.exe
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\bin\Release\FileDelete.pdb
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\obj\Release\FileDelete.exe
+C:\Users\fabio.leardini\Desktop\Projects\FileDelete\FileDelete\obj\Release\FileDelete.pdb
+I:\SML\Projects\FileDelete\FileDelete\obj\Release\FileDelete.exe
+I:\SML\Projects\FileDelete\FileDelete\obj\Release\FileDelete.pdb
+F:\SML\Projects\FileDelete\FileDelete\obj\Release\FileDelete.exe
+F:\SML\Projects\FileDelete\FileDelete\obj\Release\FileDelete.pdb
